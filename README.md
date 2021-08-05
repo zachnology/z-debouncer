@@ -1,21 +1,21 @@
-# Welcome to debouncer 🏓
-![Version](https://github.com/zachnology/debouncer/actions/workflows/npm-publish.yml/badge.svg)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zachnology/debouncer/graphs/commit-activity)
-[![License: MIT](https://img.shields.io/github/license/zachnology/debouncer)](https://github.com/zachnology/debouncer/blob/master/LICENSE)
+# Welcome to z-debouncer 🏓
+![Version](https://github.com/zachnology/z-debouncer/actions/workflows/npm-publish.yml/badge.svg)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zachnology/z-debouncer/graphs/commit-activity)
+[![License: MIT](https://img.shields.io/github/license/zachnology/z-debouncer)](https://github.com/zachnology/z-debouncer/blob/master/LICENSE)
 
 > Simple JS debounce functionality
 
-### 🏠 [Homepage](https://github.com/zachnology/debouncer#readme)
+### 🏠 [Homepage](https://github.com/zachnology/z-debouncer#readme)
 
 ## Install
 
 ```sh
-npm install debouncer
+npm install z-debouncer
 ```
 
 ## Usage
 ```js
-const debouncer = require('debouncer');
+const debouncer = require('z-debouncer');
 
 let debounce = debouncer.create();
 
@@ -67,7 +67,7 @@ Add a function call to the debounce stack, replacing any existing calls.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check [issues page](https://github.com/zachnology/debouncer/issues). You can also take a look at the [contributing guide](https://github.com/zachnology/debouncer/blob/master/CONTRIBUTING.md).
+Feel free to check [issues page](https://github.com/zachnology/z-debouncer/issues). You can also take a look at the [contributing guide](https://github.com/zachnology/z-debouncer/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
@@ -78,7 +78,7 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2021 [Zack Gomez](https://github.com/zachnology).
 
-This project is [MIT](https://github.com/zachnology/debouncer/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/zachnology/z-debouncer/blob/master/LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
