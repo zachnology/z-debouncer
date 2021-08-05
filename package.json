@@ -1,0 +1,17 @@
+{
+  "name": "debouncer",
+  "version": "0.0.1-alpha",
+  "description": "Lightweight debounce functionality",
+  "main": "debouncer.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "debounce"
+  ],
+  "author": "zachnology",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
