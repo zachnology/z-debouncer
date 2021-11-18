@@ -3,3 +3,4 @@
 .github/
 CONTRIBUTING.md
 *.tgz
+tsconfig.json

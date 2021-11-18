@@ -12,6 +12,8 @@
   "author": "zachnology",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^27.0.6"
-  }
+    "jest": "^27.0.6",
+    "typescript": "^4.5.2"
+  },
+  "types": "types/debouncer.d.ts"
 }
