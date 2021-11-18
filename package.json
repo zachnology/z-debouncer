@@ -1,6 +1,6 @@
 {
   "name": "z-debouncer",
-  "version": "0.0.3-alpha",
+  "version": "1.0.0",
   "description": "Lightweight debounce functionality",
   "main": "debouncer.js",
   "scripts": {
